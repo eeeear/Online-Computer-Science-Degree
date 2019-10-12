@@ -18,4 +18,5 @@ Online Equivalence for Bachelor's Degree in Computer Science
 
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
+| 6.006: Introducation to Algorithms | MIT | 12 hours/week | Introducation to Programming & Mathematics for Computer Science |
 | 18.06: Linear Algebra | MIT | Under 10 hours/week | Multivariable Calculus |
