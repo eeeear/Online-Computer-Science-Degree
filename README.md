@@ -20,3 +20,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | ------------- | ------------- | ------------- | ------------- | 
 | 6.006: Introducation to Algorithms | MIT | 12 hours/week | Introducation to Programming & Mathematics for Computer Science |
 | 18.06: Linear Algebra | MIT | 12 hours/week | Multivariable Calculus |
+| Discrete Mathematics | UCSD & HSE | 8 hours/week | None |
