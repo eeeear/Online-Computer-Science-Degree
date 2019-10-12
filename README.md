@@ -1,5 +1,5 @@
 # [In Progress] Online Computer Science Degree
-Online Equivalence for Bachelore's Degree in Computer Science
+Online Equivalence for Bachelor's Degree in Computer Science
 
 ## Prerequisites
 | Course | School | Effort | Prerequisites |
