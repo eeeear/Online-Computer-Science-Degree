@@ -22,12 +22,17 @@ Online Computer Science Bachelor's Degree Equivalence
 
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
+| 6.005: Software Construction | MIT | 12 hours/week | Introducation to Computer Science |
 | 6.006: Introducation to Algorithms | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | 18.06: Linear Algebra | MIT | 12 hours/week | Multivariable Calculus |
-| C++ Programming Language | Microsoft | 7 hours/week | None |
 | Discrete Mathematics | UCSanDiego, HSE | 8 hours/week | None |
 
 ## Semester 3
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- | 
+| C++ Programming Language | Microsoft | 7 hours/week | None |
+
+## Semester 4
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
 | CS107: Programming Paradigms | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
