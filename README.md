@@ -29,4 +29,4 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 3
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| CS107: Programming Paradigms | Stanford | 8 hours/week | Introducation to Computer Science & C++ |
+| CS107: Programming Paradigms | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
