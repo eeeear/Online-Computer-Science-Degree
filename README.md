@@ -27,4 +27,6 @@ Online Computer Science Bachelor's Degree Equivalence
 | Discrete Mathematics | UCSD & HSE | 8 hours/week | None |
 
 ## Semester 3
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- | 
 | CS107: Programming Paradigms | Stanford | 8 hours/week | Introducation to Computer Science & C++ |
