@@ -30,6 +30,7 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 3
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
+| 6.046: Design and Analysis of Algorithms | MIT | 12 hours/week | Introducation to Algorithms & Mathematics for Computer Science |
 | C++ Programming Language | Microsoft | 7 hours/week | None |
 
 ## Semester 4
