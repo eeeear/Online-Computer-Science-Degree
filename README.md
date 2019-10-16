@@ -32,7 +32,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | ------------- | ------------- | ------------- | ------------- | 
 | 6.033: Computer System Engineering | MIT | 12 hours/week | Computation Structures & Software Construction |
 | 6.046: Design and Analysis of Algorithms | MIT | 12 hours/week | Introducation to Algorithms & Mathematics for Computer Science |
-| [18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) | MIT | 12 hours/week | Multivariable Calculus |
+| 6.431: Probability | MIT | 12 hours/week | Multivariable Calculus |
 | C++ Programming Language | Microsoft | 7 hours/week | None |
 
 
@@ -40,3 +40,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
 | CS107: Programming Paradigms | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
+| CS224: Advanced Algorithms | Harvard | 12 hours/week | Design and Analysis of Algorithms & Probability |
