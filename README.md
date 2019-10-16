@@ -5,7 +5,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
 | [Precalculus](https://www.khanacademy.org/math/precalculus) | Khan Academy | 30 hours | None |
-| 18.01: Single Variable Calculus | MIT | 12 hours/week | Precalculus |
+| [18.01: Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) | MIT | 12 hours/week | Precalculus |
 | 8.01 Physics I: Classical Mechanics | MIT | 12 hours/week | None |
 | 8.02 Physics II: Electricity and Magnetism | MIT | 12 hours/week | 8.01 Physics I: Classical Mechanics |
 
