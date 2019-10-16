@@ -22,7 +22,7 @@ Online Computer Science Bachelor's Degree Equivalence
 
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| 6.005: Software Construction | MIT | 12 hours/week | Introducation to Computer Science |
+| [6.005: Software Construction](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) | MIT | 12 hours/week | Introducation to Computer Science |
 | 6.006: Introducation to Algorithms | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | 18.06: Linear Algebra | MIT | 12 hours/week | Multivariable Calculus |
 | Discrete Mathematics | UCSanDiego, HSE | 8 hours/week | None |
