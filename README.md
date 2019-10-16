@@ -13,7 +13,7 @@ Online Computer Science Bachelor's Degree Equivalence
 
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| CS50: Introducation to Computer Science | Harvard | 10-20 hours/week | None |
+| [CS50: Introducation to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10-20 hours/week | None |
 | 6.042J: Mathematics for Computer Science | MIT | 12 hours/week | Single Variable Calculus |
 | 18.02: Multivariable Calculus | MIT | 12 hours/week | Single Variable Calculus |
 | 6.004: Computation Structures | MIT | 12 hours/week | 8.02 Physics II: Electricity and Magnetism |
