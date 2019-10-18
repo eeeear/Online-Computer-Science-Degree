@@ -23,7 +23,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
 | [6.005: Software Construction](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) | MIT | 12 hours/week | Introducation to Computer Science |
-| 6.006: Introducation to Algorithms | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
+| [6.006: Introducation to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | 18.06: Linear Algebra | MIT | 12 hours/week | Multivariable Calculus |
 | [6.004: Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) | MIT | 12 hours/week | Circuits and Electronics |
 
