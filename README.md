@@ -33,7 +33,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.033: Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) | MIT | 12 hours/week | Computation Structures & Software Construction |
 | [6.046: Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) | MIT | 12 hours/week | Introducation to Algorithms & Mathematics for Computer Science |
 | [6.431: Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) | MIT | 12 hours/week | Multivariable Calculus |
-| C++ Programming Language | Microsoft | 7 hours/week | None |
+| C++ Programming Language | Microsoft | 5 hours/week | None |
 
 
 ## Semester 4
