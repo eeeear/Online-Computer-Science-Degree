@@ -39,5 +39,5 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 4
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| CS107: Programming Paradigms | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
+| [CS107: Programming Paradigms](https://see.stanford.edu/Course/CS107) | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
 | CS224: Advanced Algorithms | Harvard | 12 hours/week | Design and Analysis of Algorithms & Probability |
