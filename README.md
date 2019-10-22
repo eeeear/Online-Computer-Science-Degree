@@ -42,3 +42,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | [CS107: Programming Paradigms](https://see.stanford.edu/Course/CS107) | Stanford | 15 hours/week | Introducation to Computer Science & C++ |
 | [6.033: Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) | MIT | 12 hours/week | Computation Structures & Software Construction |
 | [CS224: Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) | Harvard | 12 hours/week | Design and Analysis of Algorithms & Probability |
+| [18.6501: Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-2) | MIT | 12 hours/week | Multivariable Calculus, Linear Algebra & Probability |
