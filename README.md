@@ -43,3 +43,8 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.033: Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) | MIT | 12 hours/week | Computation Structures & Software Construction |
 | [CS224: Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) | Harvard | 12 hours/week | Design and Analysis of Algorithms & Probability |
 | [18.6501: Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-2) | MIT | 12 hours/week | Multivariable Calculus, Linear Algebra & Probability |
+
+## Semester 5
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- |
+| [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | CS224: Advanced Algorithms |
