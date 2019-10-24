@@ -47,4 +47,4 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 5
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
-| [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | CS224: Advanced Algorithms |
+| [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | Advanced Algorithms |
