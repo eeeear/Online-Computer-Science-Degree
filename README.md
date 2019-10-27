@@ -57,4 +57,5 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | 12 hours/week | Probability, Multivariable Calculus & Linear Algebra |
+| [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) | UC Berkeley | 6 hours/week | Fundamentals of Statistics |
 
