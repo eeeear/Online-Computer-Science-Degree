@@ -30,8 +30,8 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 3
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| [6.005.2: Advanced Software Construction](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x) | MIT | 10 hours/week | Software Construction |
 | [6.004: Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) | MIT | 12 hours/week | Circuits and Electronics |
+| [6.005.2: Advanced Software Construction](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x) | MIT | 10 hours/week | Software Construction |
 | [6.046: Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) | MIT | 12 hours/week | Introducation to Algorithms & Mathematics for Computer Science |
 | [6.431: Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) | MIT | 12 hours/week | Multivariable Calculus |
 | C++ Programming Language: [Part 1](https://www.edx.org/course/introduction-to-c-plus-plus-7), [Part 2](https://www.edx.org/course/intermediate-c-4), and [Part 3](https://www.edx.org/course/advanced-c-4) | Microsoft | 5 hours/week | None |
@@ -49,3 +49,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
 | [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | Advanced Algorithms |
+| [6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | MIT | 12 hours/week | Introducation to Computer Science, Multivariable Calculus & Introducation to Algorithms |
