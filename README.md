@@ -22,7 +22,7 @@ Online Computer Science Bachelor's Degree Equivalence
 
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
-| [6.005.1: Software Construction](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) | MIT | 10 hours/week | Introducation to Computer Science |
+| [6.005.1: Software Construction](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) | MIT | 8 hours/week | Introducation to Computer Science |
 | [6.006: Introducation to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | [18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | MIT | 12 hours/week | Multivariable Calculus |
 | [6.002: Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics) | MIT | 12 hours/week | 8.02 Physics II: Electricity and Magnetism, and Differential Equations |
@@ -31,7 +31,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
 | [6.004: Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) | MIT | 12 hours/week | Circuits and Electronics |
-| [6.005.2: Advanced Software Construction](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x) | MIT | 10 hours/week | Software Construction |
+| [6.005.2: Advanced Software Construction](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x) | MIT | 8 hours/week | Software Construction |
 | [6.046: Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) | MIT | 12 hours/week | Introducation to Algorithms & Mathematics for Computer Science |
 | [6.431: Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) | MIT | 12 hours/week | Multivariable Calculus |
 | C++ Programming Language: [Part 1](https://www.edx.org/course/introduction-to-c-plus-plus-7), [Part 2](https://www.edx.org/course/intermediate-c-4), and [Part 3](https://www.edx.org/course/advanced-c-4) | Microsoft | 5 hours/week | None |
