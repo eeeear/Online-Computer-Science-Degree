@@ -50,4 +50,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | ------------- | ------------- | ------------- | ------------- |
 | [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | Advanced Algorithms |
 | [6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | MIT | 12 hours/week | Introducation to Computer Science, Multivariable Calculus & Introducation to Algorithms |
-| [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado Denver | 5 hours/week | None |
+| [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado Denver | 5 hours/week | Introducation to Computer Science |
