@@ -52,3 +52,9 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | MIT | 12 hours/week | Introducation to Computer Science, Multivariable Calculus & Introducation to Algorithms |
 | [Database Management Essentials](https://www.coursera.org/learn/database-management) (7 weeks) & [The Unix Workbench](https://www.coursera.org/learn/unix) (4 weeks) | University of Colorado Denver & Johns Hopkins University | 5 hours/week | Introducation to Computer Science |
 | [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) | The Linux Foundation | 7 hours/week | None |
+
+## Semester 6
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- |
+| [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | 12 hours/week | Probability, Multivariable Calculus & Linear Algebra |
+
