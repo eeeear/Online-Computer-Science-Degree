@@ -1,4 +1,4 @@
-# [In Progress] Online Computer Science Degree
+# [In Progress] Open-Source Computer Science Degree
 Online Computer Science Bachelor's Degree Equivalence
 
 ## Prerequisites
