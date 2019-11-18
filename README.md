@@ -60,5 +60,6 @@ Online Computer Science Bachelor's Degree Equivalence
 | ------------- | ------------- | ------------- | ------------- |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | 12 hours/week | Probability, Multivariable Calculus & Linear Algebra |
 | [Data Science](https://www.coursera.org/specializations/jhu-data-science?) | Johns Hopkins University | 6 hours/week | None |
+| [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Stanford | 10 hours/week | Mathematics for Computer Science & Introducation to Algorithms |
 
 
