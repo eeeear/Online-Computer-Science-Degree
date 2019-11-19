@@ -64,3 +64,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | [Data Science](https://www.coursera.org/specializations/jhu-data-science?) | Johns Hopkins University | 6 hours/week | None |
 | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Stanford | 10 hours/week | Mathematics for Computer Science & Introducation to Algorithms |
 | [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) | Stanford | 10 hours/week | Introducation to Computer Science, Mathematics for Computer Science & Computation Structures |
+| [Programming Languages](https://cs.brown.edu/courses/cs173/2012/OnLine/) | Brown | 10 hours/week | Introducation to Computer Science, Mathematics for Computer Science, Computer Architecture & Advanced Software Construction |
