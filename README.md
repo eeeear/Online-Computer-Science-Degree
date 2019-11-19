@@ -26,6 +26,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.006: Introducation to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | [18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | MIT | 12 hours/week | Multivariable Calculus |
 | [6.002: Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics) | MIT | 12 hours/week | 8.02 Physics II: Electricity and Magnetism, and Differential Equations |
+| Optional: [The Unix Workbench (4 weeks)](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 hours/week | Introducation to Computer Science |
 
 ## Semester 3
 | Course | School | Effort | Prerequisites |
@@ -50,10 +51,11 @@ Online Computer Science Bachelor's Degree Equivalence
 | ------------- | ------------- | ------------- | ------------- |
 | [6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm) | MIT | 12 hours/week | Advanced Algorithms |
 | [6.034: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) | MIT | 12 hours/week | Introducation to Computer Science, Multivariable Calculus & Introducation to Algorithms |
+| [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) | Stanford | 10 hours/week | Introducation to Computer Science |
 | [Computer Architecture](https://www.coursera.org/learn/comparch) | Princeton | 5 hours/week | Computation Structures |
 | [Data Science](https://www.coursera.org/specializations/jhu-data-science?) | Johns Hopkins University | 6 hours/week | None |
-| [Database Management Essentials (7 weeks)](https://www.coursera.org/learn/database-management) & [The Unix Workbench (4 weeks)](https://www.coursera.org/learn/unix) | University of Colorado Denver & Johns Hopkins University | 5 hours/week | Introducation to Computer Science |
 | [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) | The Linux Foundation | 7 hours/week | None |
+
 
 ## Semester 6
 | Course | School | Effort | Prerequisites |
