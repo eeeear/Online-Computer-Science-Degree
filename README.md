@@ -75,5 +75,6 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 7
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
-| [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Udemy | 10 hours/week | Introducation to Computer Science |
 | [6.858: Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm) | MIT | 12 hours/week | Computer System Engineering |
+| [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) | Carnegie Mellon University | 10 hours/week | Introducation to Computer Science, Computer System Engineering, C++ Programming Language, Advanced Software Construction, Compilers |
+| [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Udemy | 10 hours/week | Introducation to Computer Science |
