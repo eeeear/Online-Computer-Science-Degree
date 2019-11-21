@@ -65,3 +65,9 @@ Online Computer Science Bachelor's Degree Equivalence
 | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Stanford | 10 hours/week | Mathematics for Computer Science & Introducation to Algorithms |
 | [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) | Stanford | 10 hours/week | Introducation to Computer Science, Mathematics for Computer Science & Computation Structures |
 | [Programming Languages](https://cs.brown.edu/courses/cs173/2012/OnLine/) | Brown | 10 hours/week | Introducation to Computer Science, Mathematics for Computer Science, Computer Architecture & Advanced Software Construction |
+
+## Semester 7
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- |
+| [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
+
