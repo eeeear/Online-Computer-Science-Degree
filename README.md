@@ -37,7 +37,6 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.431: Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) | MIT | 12 hours/week | Multivariable Calculus |
 | C++ Programming Language: [Part 1](https://www.edx.org/course/introduction-to-c-plus-plus-7), [Part 2](https://www.edx.org/course/intermediate-c-4), and [Part 3](https://www.edx.org/course/advanced-c-4) | Microsoft | 5 hours/week | None |
 
-
 ## Semester 4
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
@@ -56,7 +55,6 @@ Online Computer Science Bachelor's Degree Equivalence
 | [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) | The Linux Foundation | 7 hours/week | None |
 | [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) | Stanford | 10 hours/week | Introducation to Computer Science |
 
-
 ## Semester 6
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
@@ -74,4 +72,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
 | [Computer Graphics](https://www.edx.org/course/computer-graphics-2) | University of California, San Diego | 12 hours/week | C++ Programming Language, Linear Algebra |
 
-
+## Semester 7
+| Course | School | Effort | Prerequisites |
+| ------------- | ------------- | ------------- | ------------- |
+| [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Udemy | 10 hours/week | Introducation to Computer Science |
