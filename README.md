@@ -70,7 +70,8 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
 | [Deep Learning](https://www.coursera.org/specializations/deep-learning?) | Stanford | 12 hours/week | Introducation to Computer Science, Linear Algebra |
-| [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
 | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | 10 hours/week | Introducation to Computer Science, Introducation to Algorithms, Linear Algebra, Advanced Software Construction |
+| [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
+| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) | University of California, San Diego | 12 hours/week | C++ Programming Language, Linear Algebra |
 
 
