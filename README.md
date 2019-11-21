@@ -25,7 +25,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.005.1: Software Construction](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) | MIT | 8 hours/week | Introducation to Computer Science |
 | [6.006: Introducation to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT | 12 hours/week | Introducation to Computer Science & Mathematics for Computer Science |
 | [18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | MIT | 12 hours/week | Multivariable Calculus |
-| [6.002: Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics) | MIT | 12 hours/week | 8.02 Physics II: Electricity and Magnetism, and Differential Equations |
+| [6.002: Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics) | MIT | 12 hours/week | Physics II: Electricity and Magnetism & Differential Equations |
 | Optional: [The Unix Workbench (4 weeks)](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 hours/week | Introducation to Computer Science |
 
 ## Semester 3
