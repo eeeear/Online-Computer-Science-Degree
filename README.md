@@ -69,5 +69,7 @@ Online Computer Science Bachelor's Degree Equivalence
 ## Semester 7
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
+| [Deep Learning](https://www.coursera.org/specializations/deep-learning?) | Stanford | 12 hours/week | Introducation to Computer Science, Linear Algebra |
 | [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
+
 
