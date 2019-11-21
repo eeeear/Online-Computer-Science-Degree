@@ -76,3 +76,4 @@ Online Computer Science Bachelor's Degree Equivalence
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
 | [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Udemy | 10 hours/week | Introducation to Computer Science |
+| [6.858: Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm) | MIT | 12 hours/week | Computer System Engineering |
