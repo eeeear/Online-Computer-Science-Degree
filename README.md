@@ -1,5 +1,7 @@
 # Open-Source Computer Science Degree
 
+This project is the most comprehensive Bachelor's Degree in Computer Science curriculum you can find online. You will learn all the material of mathematics, programming, artificial intelligence, data science and electrical engineering courses provided by top schools like MIT, Harvard, Stanford, Princeton and more. You do not need any knowledge of Computer Science or programming experience. 
+
 ## Prerequisites
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- | 
