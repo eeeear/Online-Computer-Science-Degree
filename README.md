@@ -72,7 +72,7 @@ Online Computer Science Bachelor's Degree Equivalence
 | [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
 | [Computer Graphics](https://www.edx.org/course/computer-graphics-2) | University of California, San Diego | 12 hours/week | C++ Programming Language, Linear Algebra |
 
-## Semester 7
+## Semester 8
 | Course | School | Effort | Prerequisites |
 | ------------- | ------------- | ------------- | ------------- |
 | [6.858: Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm) | MIT | 12 hours/week | Computer System Engineering |
