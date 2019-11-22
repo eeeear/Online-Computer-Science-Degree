@@ -78,3 +78,5 @@ Online Computer Science Bachelor's Degree Equivalence
 | [6.858: Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm) | MIT | 12 hours/week | Computer System Engineering |
 | [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) | Carnegie Mellon University | 10 hours/week | Introducation to Computer Science, Computer System Engineering, C++ Programming Language, Advanced Software Construction, Compilers |
 | [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) | Udemy | 10 hours/week | Introducation to Computer Science |
+| [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | 10 hours/week | Linear Algebra, Probability, Fundamentals of Statistics, Physics II: Electricity and Magnetism, Multivariable Calculus |
+
