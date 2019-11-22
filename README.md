@@ -70,7 +70,7 @@ This project is the most comprehensive Bachelor's Degree in Computer Science cur
 | ------------- | ------------- | ------------- | ------------- |
 | [Deep Learning](https://www.coursera.org/specializations/deep-learning?) | Stanford | 12 hours/week | Introducation to Computer Science, Linear Algebra |
 | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | 10 hours/week | Introducation to Computer Science, Introducation to Algorithms, Linear Algebra, Advanced Software Construction |
-| [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Stanford | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
+| [CS193P: iOS Application Development](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) or [Android Development](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) | Stanford or Udemy | 12 hours/week | Introducation to Computer Science, Programming Paradigms, The Unix Workbench, Introduction to Databases |
 | [Computer Graphics](https://www.edx.org/course/computer-graphics-2) | University of California, San Diego | 12 hours/week | C++ Programming Language, Linear Algebra |
 
 ## Semester 8
