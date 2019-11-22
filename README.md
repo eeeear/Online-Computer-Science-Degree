@@ -1,5 +1,4 @@
-# [In Progress] Open-Source Computer Science Degree
-Online Computer Science Bachelor's Degree Equivalence
+# Open-Source Computer Science Degree
 
 ## Prerequisites
 | Course | School | Effort | Prerequisites |
