@@ -1,6 +1,6 @@
 # Open-Source Computer Science Degree
 
-This project is a well-structured Bachelor's Degree in Computer Science curriculum. All the mathematics, programming, artificial intelligence, data science and electrical engineering materials are provided by experienced progrsmmers and top schools like MIT, Harvard, Princeton, Stanford, etc. You do not need any knowledge of Computer Science or programming experience to start. 
+This project is a well-structured Bachelor's Degree in Computer Science curriculum. All the mathematics, programming, artificial intelligence, data science and electrical engineering materials are provided by experienced programmers and top schools like MIT, Harvard, Princeton, Stanford, etc. You do not need any knowledge of Computer Science or programming experience to start. 
 
 ## Prerequisites
 | Course | School | Effort | Prerequisites |
